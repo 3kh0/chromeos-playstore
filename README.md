@@ -13,3 +13,5 @@ GUIDE:
 2. Once the Playstore downloads open Settings, click on "Apps", the arrow next to where it says "Google Playstore", and then "Manage Android Preferences"
 3. Click on Accounts and add your PERSONAL email
 4. Open the Playstore and click on the 3 lines in the top left corner. Select the account you just added and have fun
+
+If you need any help, ask questions [here](https://github.com/3kh0/chromeos-playstore/discussions)
