@@ -13,3 +13,5 @@ This only works if you can downgrade to version 81 and if the Playstore is enabl
 4. Open the Playstore and click on the 3 lines in the top left corner. Select the account you just added and have fun
 
 If you need any help, ask questions [here](https://github.com/3kh0/chromeos-playstore/discussions). Credit to CoolElectronics#4683 for this exploit!
+
+[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
